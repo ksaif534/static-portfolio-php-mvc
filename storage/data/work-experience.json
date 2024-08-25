@@ -1,0 +1,25 @@
+{
+    "experiences": [
+        {
+            "id": "1",
+            "employer": "Afiyan Ltd",
+            "position": "IAM intern",
+            "description": "Handled Identity & Access Management tasks",
+            "timeline": "January 2024"
+        },
+        {
+            "id": "2",
+            "employer": "LightCastle Partners Ltd.",
+            "position": "Back-end Web Developer",
+            "description": "Worked as a Back-end Web Developer at this Market Research & Data Analytics Company. Conducted Software Development & Maintenance for the custom tools and web applications for the organization. Worked in PHP(Laravel), Javascript and other relevant Frameworks",
+            "timeline": "November 2017 - October 2018"
+        },
+        {
+            "id": "3",
+            "employer": "Freelance",
+            "position": "Back-end Web Developer",
+            "description": "Worked as a freelance web developer and developed B2B organization web applications, B2B data analytics platform and content management system as software products in online marketplaces. Holds active expertise in Web Development, System Maintenance.",
+            "timeline": "2019 - present"
+        }
+    ]
+}

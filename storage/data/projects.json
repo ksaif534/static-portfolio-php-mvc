@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "name": "CMS(Content Management System)",
+            "tech_specs": "Laravel 8,HTML5,CSS3,Sass,Bootstrap,Highcharts,Vue,Pusher (TCP Websocket Integration)",
+            "description": "This is a project consisting of blog/forum discussion/sharing platform with both textual and video/visual representation of content. Key features include: 1. Blog/Discussion Forum for both Text and Video Content 2. Content Analytics 3. Hierarchical Authorization System for Content Moderation",
+            "image_path": "assets/distribution/img/cmssk.png"
+        },
+        {
+            "id": "2",
+            "name": "DC(Data Collection & Analytics)",
+            "tech_specs": "Laravel 8,HTML5,CSS3,Bootstrap,HighchartsJS,AngularCLI Integration+Typescript",
+            "description": "This is a B2B project that solves business solutions by collecting business data through survey questionnaire and deriving complex analytics from those data in order to make better business decisions",
+            "image_path": "assets/distribution/img/survey-dash.png"
+        },
+        {
+            "id": "3",
+            "name": "Anonymous Feedback Application",
+            "tech_specs": "PHP,Laravel,Tailwind",
+            "description": "This a test/demo application which takes in feedback from anonymous users and displays those anonymous feedback to registered users.",
+            "image_path": "assets/distribution/img/anon-feedback-ss.png"
+        }
+    ]
+}
